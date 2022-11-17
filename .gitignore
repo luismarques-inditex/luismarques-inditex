@@ -1,0 +1,7 @@
+### Custom ###
+
+# Windows
+*.ini
+
+# MacOS
+.DS_Store
