@@ -17,3 +17,13 @@ My name is Luís Marques, I'm from Porto (Portugal) and I'm a Computer Engineer 
     <img height="170em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luismarques-inditex&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/>
     <img height="170em" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismarques-inditex&layout=compact&hide_border=true&theme=material-palenight"/>
 </div>
+
+<p></p>
+
+<div align="right">
+    <a href="https://www.linkedin.com/in/luismarques99/"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo.png"></a>
+    &emsp;
+    <a href="https://gitlab.com/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/gitlab-logo.png"></a>
+    &emsp;
+    <a href="https://www.buymeacoffee.com/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/BMC/bmc-button.png"></a>
+</div>
